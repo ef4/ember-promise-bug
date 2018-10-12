@@ -18,6 +18,6 @@ export default Helper.extend({
       return this.recompute();
     });
 
-    return '';
+    return 'loading';
   }
 })
